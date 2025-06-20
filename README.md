@@ -41,7 +41,3 @@ A labeled dataset containing news articles with tags “True” (genuine news) o
 ## Results
 
 Evaluation metrics such as accuracy, precision, recall, and F1 score are documented within the project files.
-
-## Model Deployment
-
-After selecting a well-performing classifier, you can deploy it in a real-world application or integrate it into a larger system for automated fake news detection.
